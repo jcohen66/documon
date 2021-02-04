@@ -1,0 +1,4 @@
+red
+cyan
+green
+yellow
